@@ -5,7 +5,6 @@ import com.thienphuc.backend_java_core.dto.request.UserRegisterRequest;
 import com.thienphuc.backend_java_core.entity.User;
 import com.thienphuc.backend_java_core.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
